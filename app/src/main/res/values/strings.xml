@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application 1</string>
+    <string name="choose_manufacture">Choose a manufacturer:</string>
+    <string name="choose_good">Choose a good:</string>
+    <string name="image_desc">Shop image</string>
+    <string name="passwd">Enter password</string>
+</resources>
